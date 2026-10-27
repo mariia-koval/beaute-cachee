@@ -19,6 +19,10 @@ Beauté Cachée est une marque fictive de lingerie premium. Ce projet explore le
 | Womens Clothing E-Commerce Reviews | Avis réels de vêtements féminins : notes, recommandations et commentaires | 23 485 avis |
 | Sales / CRM synthétique | Clients, produits, commandes, lignes de commande, tickets et enquêtes de satisfaction | 6 tables, 33 000 lignes ; activité commerciale simulée de 2025 |
 
+**Source des avis clients :** [Women’s E-Commerce Clothing Reviews](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews), publié par **nicapotato** sur Kaggle.
+
+Les données Sales / CRM sont synthétiques et ont été générées pour cette étude de cas.
+
 Les deux sources sont analysées séparément : aucun lien individuel n’est établi entre les avis réels et les clients fictifs du CRM. Les avis concernent des vêtements féminins, pas exclusivement de la lingerie.
 
 ## Travail réalisé
