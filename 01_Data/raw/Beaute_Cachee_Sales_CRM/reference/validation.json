@@ -1,0 +1,28 @@
+{
+  "synthetic": true,
+  "seed": 20251014,
+  "period": "2025-01-01/2025-12-31",
+  "as_of": "2025-12-31 23:59:59",
+  "timezone": "Europe/Paris local naive; SLA uses elapsed wall-clock hours; DST not modeled",
+  "clean_counts": {
+    "customers": 5000,
+    "products": 200,
+    "orders": 10000,
+    "order_items": 15000,
+    "support_tickets": 2000,
+    "satisfaction_surveys": 800
+  },
+  "raw_counts": {
+    "customers": 5020,
+    "products": 202,
+    "orders": 10030,
+    "order_items": 15045,
+    "support_tickets": 2010,
+    "satisfaction_surveys": 804
+  },
+  "injected_issue_events": 221,
+  "validation": "PASS: primary keys, foreign keys, customer/order/product ownership, chronological order, refunds, survey uniqueness, cutoff",
+  "currency": "EUR",
+  "prices": "Tax-inclusive retail prices; no VAT accounting; shipping excluded",
+  "known_limitation": "No refund timestamps: revenue assigned to original order date. Not a cash-flow or accounting ledger."
+}
